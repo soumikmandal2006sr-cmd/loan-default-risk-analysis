@@ -23,23 +23,27 @@ repayments. This project answers:
 ---
 
 ## 🗂️ Project Structure
+## 🗂️ Project Structure
+
+```
 loan-default-risk-analysis/
 │
 ├── data/
-│ ├── loan_applicants_raw.csv # Raw dataset with intentional mess
-│ └── loan_applicants_clean.csv # Cleaned dataset
+│   ├── loan_applicants_raw.csv        
+│   └── loan_applicants_clean.csv      
 │
 ├── notebooks/
-│ ├── 01_data_generation_cleaning.ipynb # Phase 1
-│ ├── 02_eda_visualization.ipynb # Phase 2
-│ └── 03_bayesian_risk_scorer.ipynb # Phase 4
+│   ├── 01_data_generation_cleaning.ipynb   
+│   ├── 02_eda_visualization.ipynb          
+│   └── 03_bayesian_risk_scorer.ipynb       
 │
 ├── sql/
-│ ├── 01_basic_queries.sql # Q1-Q5
-│ ├── 02_intermediate_queries.sql # Q6-Q12
-│ └── 03_advanced_queries.sql # Q13-Q18
+│   ├── 01_basic_queries.sql           
+│   ├── 02_intermediate_queries.sql    
+│   └── 03_advanced_queries.sql        
 │
 └── README.md
+```
 ---
 
 ## 🔧 Tech Stack
