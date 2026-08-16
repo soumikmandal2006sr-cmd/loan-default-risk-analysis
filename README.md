@@ -23,7 +23,6 @@ repayments. This project answers:
 ---
 
 ## 🗂️ Project Structure
-## 🗂️ Project Structure
 
 ```
 loan-default-risk-analysis/
